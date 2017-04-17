@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Training
+namespace _01.Magic_Number
 {
     class Program
     {
