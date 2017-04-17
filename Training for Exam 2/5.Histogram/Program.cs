@@ -16,6 +16,7 @@ namespace _5.Histogram
             double p3Count = 0.0;
             double p4Count = 0.0;
             double p5Count = 0.0;
+            var a = 0;
 
            
             for (int i = 1; i <= n; i++)
