@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Transport Price", "3.Tran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.On Time for the Exam", "4.On Time for the Exam\4.On Time for the Exam.csproj", "{637E40F7-177F-464E-A381-F5C2644905C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Histogram", "5.Histogram\5.Histogram.csproj", "{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Histogrammm", "5.Histogram\5.Histogrammm.csproj", "{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
