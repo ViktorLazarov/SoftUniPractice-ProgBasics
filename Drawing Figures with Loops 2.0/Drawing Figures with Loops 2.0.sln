@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Diamond", "10.Diamond\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Draw Fort(06.03.2016)", "11.Draw Fort(06.03.2016)\11.Draw Fort(06.03.2016).csproj", "{343FE118-ACE8-4302-8ED2-722B6B879E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{1C74A278-3D57-424A-999C-CF9BE7480F44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Draw Fort v2.0", "ConsoleApplication1\12.Draw Fort v2.0.csproj", "{1C74A278-3D57-424A-999C-CF9BE7480F44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
