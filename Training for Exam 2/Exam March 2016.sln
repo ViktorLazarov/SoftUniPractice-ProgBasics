@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.On Time for the Exam", "4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Histogram", "5.Histogram\5.Histogram.csproj", "{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{29F00931-2740-41C0-A240-EFFF9F3CD5C3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E841C2-2F0B-47D5-B299-61BDC6C6F9F6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{29F00931-2740-41C0-A240-EFFF9F3CD5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29F00931-2740-41C0-A240-EFFF9F3CD5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29F00931-2740-41C0-A240-EFFF9F3CD5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29F00931-2740-41C0-A240-EFFF9F3CD5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
