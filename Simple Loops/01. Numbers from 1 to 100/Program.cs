@@ -14,6 +14,7 @@ namespace _01.Numbers_from_1_to_100
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Hello World");
         }
     }
 }
